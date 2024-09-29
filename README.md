@@ -1,16 +1,14 @@
 # Hello_word
+>>>>>>> d5497bdc7c36d4e5527469c2c4fdb246d15be5bb
 
 A new Flutter project.
 
-## Getting Started
+![screenshoot hello_word](assets\01.png),
+![screenshoot hello_word](assets\02.png),
+![screenshoot hello_word](assets\03.png),
+![screenshoot hello_word](assets\04.png),
+![screenshoot hello_word](assets\05.png),
+![screenshoot hello_word](assets\06.png),
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
